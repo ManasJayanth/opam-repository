@@ -1,0 +1,6 @@
+url {
+  src: "https://gitlab.com/ligolang/tezos-ligo/-/archive/1884bb3d591181ae8ebb694ced2e26b2bf883fcf/tezos-ligo-1884bb3d591181ae8ebb694ced2e26b2bf883fcf.tar.gz"
+  checksum: [
+    "sha256=9c0467e701f3bd85bbdf4f0b2edc78dc6a9effdb2d126977399dbecac794851f"
+  ]
+}
